@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "web3": "^1.8.2"
+  }
+}
